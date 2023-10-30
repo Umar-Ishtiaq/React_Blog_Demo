@@ -10,7 +10,7 @@ import EditPost from "./EditPost"
 import { Route, Routes } from 'react-router-dom'
 import { DataProvider } from "./context/DataContext"
 
-
+/* Just trying something out */
 function App() {
 
   return (
